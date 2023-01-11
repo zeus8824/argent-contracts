@@ -67,3 +67,4 @@ You need to not have `ganache` running with this as it uses own instance.
 ## License
 
 Released under [GPL-3.0](LICENSE)
+cool
